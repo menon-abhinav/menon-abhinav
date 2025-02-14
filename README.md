@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav menon</h1>
+<h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menon-abhinav" alt="menon-abhinav" /></a> </p>
