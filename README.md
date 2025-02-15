@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav menon</h1>
+<h1 align="center">Hi 👋, I'm Abhinav Menon</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on [Smile & Mouth Detection using C++](https://github.com/menon-abhinav/Smile_Mouth_Detection)
