@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Menon</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on [Smile & Mouth Detection using C++](https://github.com/menon-abhinav/Smile_Mouth_Detection)
+- 🔭 I’m currently working on [EchoHire – AI Driven Interview Preparation Platform]
 
 - 🌱 I’m currently learning **React & Node.js**
 
